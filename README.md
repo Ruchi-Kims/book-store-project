@@ -1,4 +1,4 @@
-# 📚 Book Store Project (Frontend)
+# 📚 Book Store Project
 
 ## 🌟 Aperçu du Projet
 
